@@ -1,0 +1,2096 @@
+{
+    "pubmed_qa": {
+        "pubmed_qa": {
+            "16816043": {
+                "contexts": [
+                    "To determine under what conditions lay people and health professionals find it acceptable for a physician to breach confidentiality to protect the wife of a patient with a sexually transmitted disease (STD).",
+                    "In a study in France, breaching confidentiality in 48 scenarios were accepted by 144 lay people, 10 psychologists and 7 physicians. The scenarios were all possible combinations of five factors: severity of the disease (severe, lethal); time taken to discuss this with (little time, much time); intent to inform the spouse about the disease (none, one of these days, immediately); intent to adopt protective behaviours (no intent, intent); and decision to consult an expert in STDs (yes, no), 2 x 2 x 3 x 2 x 2. The importance and interactions of each factor were determined, at the group level, by performing analyses of variance and constructing graphs.",
+                    "The concept of breaching confidentiality to protect a wife from her husband's STD was favoured much more by lay people and psychologists than by physicians (mean ratings 11.76, 9.28 and 2.90, respectively, on a scale of 0-22). The patient's stated intentions to protect his wife and to inform her of the disease had the greatest impact on acceptability. A cluster analysis showed groups of lay participants who found breaching confidentiality \"always acceptable\" (n = 14), \"depending on the many circumstances\" (n = 87), requiring \"consultation with an expert\" (n = 30) and \"never acceptable (n = 13)\"."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Adult",
+                    "Attitude of Health Personnel",
+                    "Attitude to Health",
+                    "Cluster Analysis",
+                    "Confidentiality",
+                    "Female",
+                    "France",
+                    "Humans",
+                    "Intention",
+                    "Interpersonal Relations",
+                    "Male",
+                    "Middle Aged",
+                    "Severity of Illness Index",
+                    "Sexual Behavior",
+                    "Sexually Transmitted Diseases",
+                    "Spouses",
+                    "Time Factors"
+                ],
+                "reasoning_required_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "23992109": {
+                "contexts": [
+                    "The solitary kidney (SK) is currently debated in the literature, as living kidney donation is extensively used and the diagnosis of congenital SK is frequent. Tubulointerstitial lesions associated with adaptive phenomena may occur early within the SK.",
+                    "Analysis of the significance of urinary biomarkers in the assessment of tubulointerstitial lesions of the SK.",
+                    "A cross-sectional study of 37 patients with SK included 18 patients-acquired SK (mean age 56.44\u2009\u00b1\u200912.20 years, interval from nephrectomy 10.94\u2009\u00b1\u20099.37 years), 19 patients-congenital SK (mean age 41.52\u2009\u00b1\u200910.54 years). Urinary NAG, urinary alpha-1-microglobulin, albuminuria, eGFR (CKD-EPI equation) were measured.",
+                    "In acquired SK, NAG increased in 60.66%, urinary alpha 1-microglobulin in 16.66%, albuminuria in 55.55% of patients. Inverse correlation with eGFR presented NAG (R(2\u2009)=\u20090.537, p\u2009=\u20090.022), urinary alpha 1-microglobulin (R(2\u2009)=\u20090.702, p\u2009=\u20090.001), albuminuria (R(2\u2009)=\u20090.655, p\u2009=\u20090.003). In congenital SK, NAG increased in 52.63%, urinary alpha 1-microglobulin in 5.26%, albuminuria in 47.36% of patients. In this group, urinary biomarkers correlated inversely with eGFR: NAG (R(2\u2009)=\u20090.743, p\u2009<\u20090.001), urinary alpha 1-microglobulin (R(2\u2009)=\u20090.701, p\u2009=\u20090.001), albuminuria (R(2\u2009)=\u20090.821, p\u2009<\u20090.001). Significant correlations were found between the urinary biomarkers in both groups."
+                ],
+                "labels": [
+                    "INTRODUCTION",
+                    "AIMS",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Acetylglucosaminidase",
+                    "Adult",
+                    "Aged",
+                    "Albuminuria",
+                    "Alpha-Globulins",
+                    "Biomarkers",
+                    "Cross-Sectional Studies",
+                    "Female",
+                    "Glomerular Filtration Rate",
+                    "Humans",
+                    "Kidney Diseases",
+                    "Male",
+                    "Middle Aged"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "17096624": {
+                "contexts": [
+                    "To examine patterns of knowledge and attitudes among adults aged>65 years unvaccinated for influenza.",
+                    "Surveyed Medicare beneficiaries in 5 areas; clustered unvaccinated seniors by their immunization related knowledge and attitudes.",
+                    "Identified 4 clusters: Potentials (45%) would receive influenza vaccine to prevent disease; Fearful Uninformeds (9%) were unsure if influenza vaccine causes illness; Doubters (27%) were unsure if vaccine is efficacious; Misinformeds (19%) believed influenza vaccine causes illness. More Potentials (75%) and Misinformeds (70%) ever received influenza vaccine than did Fearful Uninformeds (18%) and Doubters (29%)."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Aged",
+                    "Aged, 80 and over",
+                    "Female",
+                    "Health Knowledge, Attitudes, Practice",
+                    "Humans",
+                    "Immunization Programs",
+                    "Influenza A virus",
+                    "Influenza, Human",
+                    "Interviews as Topic",
+                    "Male",
+                    "United States"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "16414216": {
+                "contexts": [
+                    "Do endometrial polyps from pre- and post-menopausal women have similar immunohistochemical expression of oestrogen and progesterone receptors (ER, PR) and markers of cellular proliferation/apoptosis (Ki67 and Bcl-2).",
+                    "Prospective cohort study. Non-parametric statistical analysis was used.",
+                    "Polyps recruited from women attending an out-patient hysteroscopy clinic in a UK district general hospital.",
+                    "Fourteen pre-menopausal and 16 post-menopausal women who presented with abnormal bleeding with endometrial polyps.",
+                    "Immunohistochemical staining was performed on endometrial polyps.",
+                    "Significant differences or correlations between hormone receptor expression (oestrogen and progesterone) and cell growth indices (Ki67 and Bcl-2).",
+                    "Endometrial polyps from pre- and post-menopausal women had significant differences in their expression of hormone receptors and Ki67. However, polyps from both groups of women had similarly increased levels of Bcl-2, an inhibitor of apoptosis."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "DESIGN",
+                    "SETTING",
+                    "PATIENTS",
+                    "INTERVENTIONS",
+                    "MAIN OUTCOME MEASURES",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Cohort Studies",
+                    "Endometrial Neoplasms",
+                    "Female",
+                    "Humans",
+                    "Immunohistochemistry",
+                    "Middle Aged",
+                    "Polyps",
+                    "Postmenopause",
+                    "Premenopause",
+                    "Prospective Studies",
+                    "Receptors, Estrogen",
+                    "Receptors, Progesterone"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "20297950": {
+                "contexts": [
+                    "To investigate the effect of fenofibrate on sleep apnoea indices.",
+                    "Proof-of-concept study comprising a placebo run-in period (1 week, 5 weeks if fibrate washout was required) and a 4-week randomized, double-blind treatment period. Thirty-four subjects (mean age 55 years, body mass index 34 kg/m 2 , fasting triglycerides 3.5 mmol/L) with diagnosed sleep apnoea syndrome not treated with continuous positive airways pressure were enrolled and randomized to once daily treatment with fenofibrate (145 mg NanoCrystal(R) tablet) or placebo. Overnight polysomnography, computerized attention/vigilance tests and blood sampling for measurement of lipids, insulin, fasting plasma glucose and fibrinogen were performed at the end of each study period.",
+                    "NCT00816829.",
+                    "As this was an exploratory study, a range of sleep variables were evaluated. The apnoea/hypopnoea index (AHI) and percentage of time spent with arterial oxygen saturation (SpO(2))<90% were relevant as they have been evaluated in other clinical trials. Other variables included total apnoeas, hypopnoeas and oxygen desaturations, and non-cortical micro-awakenings related to respiratory events per hour.",
+                    "Fenofibrate treatment significantly reduced the percentage of time with SpO(2)<90% (from 9.0% to 3.5% vs. 10.0% to 11.5% with placebo, p = 0.007), although there was no significant change in the AHI (reduction vs. control 14% (95%CI -47 to 40%, p = 0.533). Treatment reduced obstructive apnoeas (by 44%, from 18.5 at baseline to 15.0 at end of treatment vs. 29.0 to 30.5 on placebo, p = 0.048), and non-cortical micro-awakenings per hour (from 23.5 to 18.0 vs. 24.0 to 25.0 with placebo, p = 0.004). Other sleep variables were not significantly influenced by fenofibrate.",
+                    "Exploratory study in patients with mild to moderate sleep apnoea, limited treatment duration; concomitant hypnotic treatment (35%); lack of correction for multiplicity of testing."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "METHODS",
+                    "CLINICAL TRIAL REGISTRATION",
+                    "MAIN OUTCOME MEASURES",
+                    "RESULTS",
+                    "KEY LIMITATIONS"
+                ],
+                "meshes": [
+                    "Attention",
+                    "Double-Blind Method",
+                    "Female",
+                    "Fenofibrate",
+                    "Humans",
+                    "Hypolipidemic Agents",
+                    "Lipids",
+                    "Male",
+                    "Middle Aged",
+                    "Placebos",
+                    "Sleep",
+                    "Sleep Apnea Syndromes"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "17916877": {
+                "contexts": [
+                    "To determine the therapeutic effect (alleviation of vascular type headache) and side effects of a slow intravenous metoclopramide infusion over 15 min compared with those effects of a bolus intravenous metoclopramide infusion over 2 min in the treatment of patients with recent onset vascular type headache.",
+                    "All adults treated with metoclopramide for vascular type headache were eligible for entry into this clinical randomised double blinded trial. This study compared the effects of two different rates of intravenous infusion of metoclopramide over a period of 13 months at a university hospital emergency department. During the trial, side effects and headache scores were recorded at baseline (0 min), and then at 5, 15, 30 and 60 min. Repeated measures analysis of variance was used to compare the medication's efficacy and side effects.",
+                    "A total of 120 patients presenting to the emergency department met the inclusion criteria. Of these, 62 patients (51.7%) were given 10 mg metoclopramide as a slow intravenous infusion over 15 min (SIG group) and 58 patients (48.3%) were given 10 mg metoclopramide intravenous bolus infusion over 2 min (BIG group). 17 of the 58 patients in the BIG group (29.3%) and 4 of the 62 patients (6.5%) in the SIG group had akathisia (p = 0.001). There were no significant differences between the BIG and SIG groups in terms of mean headache scores (p = 0.34) and no adverse reactions in the study period. Metoclopramide successfully relieved the headache symptom(s) of patients in both the BIG and SIG groups."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "MATERIAL AND METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Akathisia, Drug-Induced",
+                    "Dopamine Antagonists",
+                    "Double-Blind Method",
+                    "Drug Administration Schedule",
+                    "Emergency Service, Hospital",
+                    "Female",
+                    "Humans",
+                    "Infusions, Intravenous",
+                    "Male",
+                    "Metoclopramide",
+                    "Vascular Headaches"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "27096199": {
+                "contexts": [
+                    "Multiple viruses are often detected in children with respiratory infection but the significance of co-infection in pathogenesis, severity and outcome is unclear.",
+                    "To correlate the presence of viral co-infection with clinical phenotype in children admitted with acute respiratory infections (ARI).",
+                    "We collected detailed clinical information on severity for children admitted with ARI as part of a Spanish prospective multicenter study (GENDRES network) between 2011-2013. A nested polymerase chain reaction (PCR) approach was used to detect respiratory viruses in respiratory secretions. Findings were compared to an independent cohort collected in the UK.",
+                    "204 children were recruited in the main cohort and 97 in the replication cohort. The number of detected viruses did not correlate with any markers of severity. However, bacterial superinfection was associated with increased severity (OR: 4.356; P-value = 0.005), PICU admission (OR: 3.342; P-value = 0.006), higher clinical score (1.988; P-value = 0.002) respiratory support requirement (OR: 7.484; P-value<0.001) and longer hospital length of stay (OR: 1.468; P-value<0.001). In addition, pneumococcal vaccination was found to be a protective factor in terms of degree of respiratory distress (OR: 2.917; P-value = 0.035), PICU admission (OR: 0.301; P-value = 0.011), lower clinical score (-1.499; P-value = 0.021) respiratory support requirement (OR: 0.324; P-value = 0.016) and oxygen necessity (OR: 0.328; P-value = 0.001). All these findings were replicated in the UK cohort."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "OBJECTIVES",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Acute Disease",
+                    "Adult",
+                    "Child, Preschool",
+                    "Coinfection",
+                    "Female",
+                    "Hospitalization",
+                    "Humans",
+                    "Infant",
+                    "Infant, Newborn",
+                    "Male",
+                    "Middle Aged",
+                    "Phenotype",
+                    "Pneumococcal Vaccines",
+                    "Respiratory Tract Infections"
+                ],
+                "reasoning_required_pred": [
+                    "n",
+                    "o"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "20084845": {
+                "contexts": [
+                    "Accurate and updated information on airborne pollen in specific areas can help allergic patients. Current monitoring systems are based on a morphologic identification approach, a time-consuming method that may represent a limiting factor for sampling network enhancement.",
+                    "To verify the feasibility of developing a real-time polymerase chain reaction (PCR) approach, an alternative to optical analysis, as a rapid, accurate, and automated tool for the detection and quantification of airborne allergenic pollen taxa.",
+                    "The traditional cetyl trimethyl ammonium bromide-based method was modified for DNA isolation from pollen. Taxon-specific DNA sequences were identified via bioinformatics or literature searches and were PCR amplified from the matching allergenic taxa; based on the sequences of PCR products, complementary or degenerate TaqMan probes were developed. The accuracy of the quantitative real-time PCR assay was tested on 3 plant species.",
+                    "The setup of a modified DNA extraction protocol allowed us to achieve good-quality pollen DNA. Taxon-specific nuclear gene fragments were identified and sequenced. Designed primer pairs and probes identified selected pollen taxa, mostly at the required classification level. Pollen was properly identified even when collected on routine aerobiological tape. Preliminary quantification assays on pollen grains were successfully performed on test species and in mixes."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "OBJECTIVE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Antigens, Plant",
+                    "Computational Biology",
+                    "DNA Primers",
+                    "DNA Probes",
+                    "DNA, Plant",
+                    "Environmental Monitoring",
+                    "Italy",
+                    "Molecular Probe Techniques",
+                    "Plant Leaves",
+                    "Plant Proteins",
+                    "Pollen",
+                    "Polymerase Chain Reaction"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "12094116": {
+                "contexts": [
+                    "The purpose of this study was to identify the relationships between leg muscle power and sprinting speed with changes of direction.",
+                    "the study was designed to describe relationships between physical qualities and a component of sports performance.",
+                    "testing was conducted in an indoor sports hall and a biomechanics laboratory.",
+                    "15 male participants were required to be free of injury and have recent experience competing in sports involving sprints with changes of direction.",
+                    "subjects were timed in 8 m sprints in a straight line and with various changes of direction. They were also tested for bilateral and unilateral leg extensor muscle concentric power output by an isokinetic squat and reactive strength by a drop jump.",
+                    "The correlations between concentric power and straight sprinting speed were non-significant whereas the relationships between reactive strength and straight speed were statistically significant. Correlations between muscle power and speed while changing direction were generally low and non-significant for concentric leg power with some moderate and significant (p<0.05) coefficients found for reactive strength. The participants who turned faster to one side tended to have a reactive strength dominance in the leg responsible for the push-off action."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "EXPERIMENTAL DESIGN",
+                    "SETTING",
+                    "PARTICIPANTS",
+                    "MEASURES",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Adult",
+                    "Humans",
+                    "Kinesis",
+                    "Leg",
+                    "Male",
+                    "Muscle Contraction",
+                    "Muscle, Skeletal",
+                    "Reaction Time",
+                    "Running"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "15528969": {
+                "contexts": [
+                    "Current guidelines include a recommendation that a pathologist with expertise in breast disease review all ductal carcinoma in situ (DCIS) specimens due to the presence of significant variability in pathologic reporting of DCIS. The objective of this study was to evaluate the completeness and accuracy of pathologic reporting of DCIS over the past decade and to determine the current impact of expert breast pathology assessment on the management of DCIS.",
+                    "All patients with a diagnosis of DCIS referred to a single regional cancer centre between 1982 and 2000 have been reviewed. Inter-observer variability between initial and secondary reports has been evaluated using kappa statistics. For each case, the Van Nuys Prognostic Index (VNPI) using pathologic data obtained from the initial and reviewed pathology reports were compared. The impact of expert breast pathology on risk assessment and treatment was determined.",
+                    "481 individuals with DCIS were referred and pathology review was performed on 350 patients (73%). Inter-observer agreement was high for the main pathologic features of DCIS. From 1996 to 2000, secondary pathology assessments lead to a change in the assessment of local recurrence risk in 100 cases (29%) and contributed to a change in treatment recommendation in 93 (43%) cases."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Aged",
+                    "Aged, 80 and over",
+                    "Biopsy",
+                    "Breast Neoplasms",
+                    "Carcinoma, Intraductal, Noninfiltrating",
+                    "Decision Support Techniques",
+                    "Female",
+                    "Humans",
+                    "Medical Records",
+                    "Middle Aged",
+                    "Observer Variation",
+                    "Ontario",
+                    "Predictive Value of Tests",
+                    "Retrospective Studies"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "16097998": {
+                "contexts": [
+                    "The benefits of serologic screening for coeliac disease in asymptomatic individuals are debatable.AIM: To investigate dietary compliance, quality of life and bone mineral density after long-term treatment in coeliac disease patients found by screening in risk groups.",
+                    "The study comprised 53 consecutive screen-detected coeliac patients diagnosed 14 years (median) ago. Dietary compliance was assessed by interview, 4-day food record and serology. Quality of life was evaluated by the Psychological General Well-Being and SF-36 questionnaires, gastrointestinal symptoms by the Gastrointestinal Symptom Rating Scale and bone mineral density by dual-energy x-ray absorptiometry. Comparisons were made to 44 symptom-detected-treated coeliac patients, 110 non-coeliac subjects and the general population.",
+                    "A total of 96% of screen-detected and 93% of symptom-detected coeliac patients adhered to a strict or fairly strict gluten-free diet. In screen-detected patients, quality of life and gastrointestinal symptoms were similar to those in symptom-detected patients or non-coeliac controls and bone mineral density was similar to that in the general population."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Aged",
+                    "Body Mass Index",
+                    "Bone Density",
+                    "Celiac Disease",
+                    "Female",
+                    "Fractures, Bone",
+                    "Gastrointestinal Diseases",
+                    "Humans",
+                    "Male",
+                    "Mass Screening",
+                    "Middle Aged",
+                    "Patient Compliance",
+                    "Quality of Life",
+                    "Risk Factors"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "24434052": {
+                "contexts": [
+                    "The last 20 years has seen a marked improvement in skin cancer awareness campaigns. We sought to establish whether this has affected the presenting Breslow thickness of malignant melanoma in the South West.",
+                    "This is a retrospective study looking at the first presentation of melanomas from 2003 to 2011. Data was accessed using the local online melanoma database.",
+                    "A total of 2001 new melanomas presented from 2003 to 2012 (Male:Female = 1:1.062). The average yearly number of melanomas was 200.1 (range = 138-312). The mean age was 62.5 years (range 12-99). Data was analysed using a Chi\u00b2 test. For 0-1 mm melanomas, there is a significant difference in the observed versus expected values over the 10 years (p = 0.0018). There is an increasing proportion of 0-1 mm (thin) melanomas presenting year on year, with a positive linear trend. This is very statistically significant (p<0.0001). The 1-2 mm melanomas are decreasing in proportion with a negative linear trend (p = 0.0013). The 2-4 mm are also decreasing in proportion (p = 0.0253). There is no significant change in the thick>4 mm melanomas (p = 0.1456)."
+                ],
+                "labels": [
+                    "INTRODUCTION",
+                    "METHOD",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Adult",
+                    "Aged",
+                    "Aged, 80 and over",
+                    "Child",
+                    "England",
+                    "Female",
+                    "Health Knowledge, Attitudes, Practice",
+                    "Health Promotion",
+                    "Humans",
+                    "Male",
+                    "Melanoma",
+                    "Middle Aged",
+                    "Patient Acceptance of Health Care",
+                    "Retrospective Studies",
+                    "Skin Neoplasms",
+                    "Young Adult"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "25699562": {
+                "contexts": [
+                    "Our previous work demonstrated that the Transmissible Liability Index (TLI), an instrument designed as an index of liability for substance use disorder (SUD), is associated with risk of substance use disorder. This longitudinal study assessed whether TLI measured in 10-12-year-olds (late childhood) predicts suicidal behavior from age 12-14 (preadolescence) to age 25 (young adulthood). We hypothesized that TLI would predict number and severity of suicide attempts.",
+                    "Subjects were sons of men who had lifetime history of SUD (n\u2009=\u2009250), called the High Average Risk (HAR) group, and sons of men with no lifetime history of a SUD (n\u2009=\u2009250), called the Low Average Risk (LAR) group. The TLI was delineated at baseline (age 10-12), and age-specific versions were administered at 12-14, 16, 19, 22, and 25 years of age.",
+                    "TLI was significantly associated with number and severity of lifetime suicide attempts."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Adult",
+                    "Child",
+                    "Humans",
+                    "Longitudinal Studies",
+                    "Male",
+                    "Risk Factors",
+                    "Suicidal Ideation",
+                    "Suicide, Attempted",
+                    "Young Adult"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "24433626": {
+                "contexts": [
+                    "Medicare beneficiaries who have chronic conditions are responsible for a disproportionate share of Medicare fee-for-service expenditures. The objective of this study was to analyze the change in the health of Medicare beneficiaries enrolled in Part A (hospital insurance) between 2008 and 2010 by comparing the prevalence of 11 chronic conditions.",
+                    "We conducted descriptive analyses using the 2008 and 2010 Chronic Conditions Public Use Files, which are newly available from the Centers for Medicare and Medicaid Services and have administrative (claims) data on 100% of the Medicare fee-for-service population. We examined the data by age, sex, and dual eligibility (eligibility for both Medicare and Medicaid).",
+                    "Medicare Part A beneficiaries had more chronic conditions on average in 2010 than in 2008. The percentage increase in the average number of chronic conditions was larger for dual-eligible beneficiaries (2.8%) than for nondual-eligible beneficiaries (1.2%). The prevalence of some chronic conditions, such as congestive heart failure, ischemic heart disease, and stroke/transient ischemic attack, decreased. The deterioration of average health was due to other chronic conditions: chronic kidney disease, depression, diabetes, osteoporosis, rheumatoid arthritis/osteoarthritis. Trends in Alzheimer's disease, cancer, and chronic obstructive pulmonary disease showed differences by sex or dual eligibility or both."
+                ],
+                "labels": [
+                    "INTRODUCTION",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Aged",
+                    "Aged, 80 and over",
+                    "Chronic Disease",
+                    "Female",
+                    "Health Services Research",
+                    "Humans",
+                    "Insurance Claim Review",
+                    "Male",
+                    "Medicare Part A",
+                    "Middle Aged",
+                    "Prevalence",
+                    "Time Factors",
+                    "United States"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "17444776": {
+                "contexts": [
+                    "To study the efficiency and safety of holmium:YAG laser lithotripsy for ureteral stones.",
+                    "A series of 188 patients with 208 ureteral stones were treated with semirigid ureteroscopy and holmium:YAG laser lithotripsy from January 2003 to December 2005. Of the stones, 116 were lower ureteral, 37 middle ureteral, and 55 upper ureteral.",
+                    "The success rate was 92.7% at the time of ureteroscopy and 96.7% at 3 months. The failures were secondary to retropulsion of the stones (3.3%). There were no perforations and one stricture. Stenting was done in 90% of patients."
+                ],
+                "labels": [
+                    "PURPOSE",
+                    "PATIENTS AND METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Adult",
+                    "Aged",
+                    "Aged, 80 and over",
+                    "Child",
+                    "Child, Preschool",
+                    "Female",
+                    "Humans",
+                    "Lithotripsy, Laser",
+                    "Male",
+                    "Middle Aged",
+                    "Retrospective Studies",
+                    "Stents",
+                    "Treatment Outcome",
+                    "Ureteral Calculi",
+                    "Ureteroscopy"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "24153338": {
+                "contexts": [
+                    "With the advancement of an aging society in the world, an increasing number of elderly patients have been hospitalized due to aneurysmal subarachnoid hemorrhage (aSAH). There is no study that compares the elderly cases of aSAH who receive the definitive treatment with those who treated conservatively. The aim of this study was to investigate the feasibility of the definitive surgery for the acute subarachnoid cases aged 80 or older.",
+                    "We reviewed 500 consecutive cases with acute aSAH with surgical indication for aneurysm repair. Inoperable cases such as dead-on-arrival and the cases with both pupils dilated were excluded. We compared the cases aged 80 or older that received clipping or coil embolization with the controls that the family selected conservative treatment.",
+                    "69 cases were included in this study (ranged 80-98, male:female=9:60). 56 cases (81.2%) had an aneurysm in the anterior circulation. 23 cases received clipping, 20 cases coil embolization and 26 cases treated conservatively. The cases with aneurysm repair showed significantly better clinical outcome than the controls, while World Federation of Neurological Surgeons (WFNS) grade on admission and premorbid modified Rankin Scale showed no difference between them."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Aged, 80 and over",
+                    "Aneurysm, Ruptured",
+                    "Cerebrovascular Circulation",
+                    "Cohort Studies",
+                    "Embolization, Therapeutic",
+                    "Female",
+                    "Humans",
+                    "Male",
+                    "Neurosurgical Procedures",
+                    "Prognosis",
+                    "Retrospective Studies",
+                    "Subarachnoid Hemorrhage",
+                    "Treatment Outcome"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "18955431": {
+                "contexts": [
+                    "To explore the secondary benefits of treadmill training for people in the chronic stage of recovery from stroke.",
+                    "Modified random assignment, matched-pair control group design with repeated measures.",
+                    "Outpatient stroke centre.",
+                    "Twenty individuals post first stroke who acknowledged walking slower than pre stroke. Participants matched by side of hemiparesis and motor impairment.",
+                    "Twelve 20-minute sessions of walking on a treadmill or weekly phone call.",
+                    "Depression (Beck Depression Index), mobility and social participation (Stroke Impact Scale 3.0 subscales) were assessed initially, at the end of 12 treatments (four weeks) and six weeks later.",
+                    "No significant difference was found between groups for any dependent measure. The ANOVA to investigate main effects in each group found no significant findings in the control group; however in the treatment group significant improvements over time for depression (P = 0.005, P<0.001), mobility (P = 0.008) and social participation (P = 0.004) were demonstrated."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "DESIGN",
+                    "SETTING",
+                    "PARTICIPANTS",
+                    "INTERVENTIONS",
+                    "MAIN OUTCOME MEASURES",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Aged",
+                    "Analysis of Variance",
+                    "Depression",
+                    "Exercise Therapy",
+                    "Exercise Tolerance",
+                    "Female",
+                    "Gait",
+                    "Humans",
+                    "Male",
+                    "Middle Aged",
+                    "Paresis",
+                    "Pilot Projects",
+                    "Quality of Life",
+                    "Recovery of Function",
+                    "Severity of Illness Index",
+                    "Social Behavior",
+                    "Stroke",
+                    "Stroke Rehabilitation",
+                    "Surveys and Questionnaires",
+                    "Treatment Outcome",
+                    "Walking"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "16100194": {
+                "contexts": [
+                    "Angiotensin-converting enzyme inhibitors (ACE-I) are considered safe, but they are associated with characteristic side effects, namely cough and angioedema, usually requiring discontinuation. We perceived that referrals for these side effects have become more and more frequent; therefore, we evaluated the degree of knowledge on the safety of ACE-I in different medical categories.",
+                    "A questionnaire (13 questions) on side effects of ACE-I was posted to physicians.",
+                    "Everyday clinical practice.",
+                    "Cardiologists, allergists, and general practitioners (GPs) from the National Healthcare System.",
+                    "Three hundred twelve physicians were contacted, and 154 returned questionnaires that could be analyzed. Of the 154 physicians (mean age, 45 years) 48 were cardiologists, 52 were GPs, and 54 were allergists. The percentage of correct answers was low: 31.9% for cardiologists, 40% for GPs, and 33% for allergists. Thus, GPs provided a significantly higher percentage of correct answers with respect to the remaining categories (p = 0.05). The lower rate of correct answers (0 to 15.9%) concerned the time of onset of cough and the action to take. Cardiologists seemed to be less aware of the fact that angiotensin receptor blockers (sartans) can cross-react with ACE-I."
+                ],
+                "labels": [
+                    "STUDY OBJECTIVE",
+                    "DESIGN",
+                    "SETTING",
+                    "PARTICIPANTS",
+                    "MEASUREMENT AND RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Allergy and Immunology",
+                    "Angiotensin-Converting Enzyme Inhibitors",
+                    "Cardiology",
+                    "Family Practice",
+                    "Health Knowledge, Attitudes, Practice",
+                    "Humans",
+                    "Middle Aged",
+                    "Practice Patterns, Physicians'",
+                    "Surveys and Questionnaires"
+                ],
+                "reasoning_required_pred": [
+                    "n",
+                    "o"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "22955530": {
+                "contexts": [
+                    "The range of injury severity that can be seen within the category of type II supracondylar humerus fractures (SCHFs) raises the question whether some could be treated nonoperatively. However, the clinical difficulty in using this approach lies in determining which type II SCHFs can be managed successfully without a surgical intervention.",
+                    "We reviewed clinical and radiographic information on 259 pediatric type II SCHFs that were enrolled in a prospective registry of elbow fractures. The characteristics of the patients who were treated without surgery were compared with those of patients who were treated surgically. Treatment outcomes, as assessed by the final clinical and radiographic alignment, range of motion of the elbow, and complications, were compared between the groups to define clinical and radiographic features that related to success or failure of nonoperative management.",
+                    "During the course of treatment, 39 fractures were found to have unsatisfactory alignment with nonoperative management and were taken for surgery. Ultimately, 150 fractures (57.9%) were treated nonoperatively, and 109 fractures (42.1%) were treated surgically. At final follow-up, outcome measures of change in carrying angle, range of motion, and complications did not show clinically significant differences between treatment groups. Fractures without rotational deformity or coronal angulation and with a shaft-condylar angle of>15 degrees were more likely to be associated with successful nonsurgical treatment. A scoring system was developed using these features to stratify the severity of the injury. Patients with isolated extension deformity, but none of the other features, were more likely to complete successful nonoperative management."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Algorithms",
+                    "Child",
+                    "Child, Preschool",
+                    "Female",
+                    "Follow-Up Studies",
+                    "Humans",
+                    "Humeral Fractures",
+                    "Infant",
+                    "Male",
+                    "Orthopedic Procedures",
+                    "Range of Motion, Articular",
+                    "Registries",
+                    "Retrospective Studies",
+                    "Trauma Severity Indices",
+                    "Treatment Outcome"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "18158048": {
+                "contexts": [
+                    "There is controversy surrounding the optimal management of the testicular remnant associated with the vanishing testes syndrome. Some urologists advocate the need for surgical exploration, whereas others believe this is unnecessary. These differing opinions are based on the variable reports of viable germ cell elements found within the testicular remnants. To better understand the pathology associated with this syndrome and the need for surgical management, we reviewed our experience regarding the incidence of viable germ cell elements within the testicular remnant.",
+                    "An institutional review board-approved, retrospective review was performed of all consecutive patients undergoing exploration for a nonpalpable testis at Eastern Virginia Medical School and Geisinger Medical Center between 1994 and 2006. Patients who were found to have spermatic vessels and a vas deferens exiting a closed internal inguinal ring were included in this analysis.",
+                    "Fifty-six patients underwent removal of the testicular remnant. Patient age ranged from 11 to 216 months. In 8 of the specimens (14%), we identified viable germ cell elements. In an additional 4 patients (7%), we identified seminiferous tubules without germ cell elements."
+                ],
+                "labels": [
+                    "OBJECTIVES",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Child, Preschool",
+                    "Cryptorchidism",
+                    "Germ Cells",
+                    "Humans",
+                    "Infant",
+                    "Male",
+                    "Seminiferous Tubules",
+                    "Testis"
+                ],
+                "reasoning_required_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "19836806": {
+                "contexts": [
+                    "Obesity may be associated with lower prostate specific antigen through hemodilution. We examined the relationship between body mass index and prostate specific antigen by age in men without prostate cancer in a longitudinal aging study to determine whether prostate specific antigen must be adjusted for body mass index.",
+                    "The study population included 994 men (4,937 observations) without prostate cancer in the Baltimore Longitudinal Study of Aging. Mixed effects models were used to examine the relationship between prostate specific antigen and body mass index in kg/m(2) by age. Separate models were explored in men with prostate cancer censored at diagnosis, for percent body fat measurements, for weight changes with time and adjusting for initial prostate size in 483 men (2,523 observations) with pelvic magnetic resonance imaging measurements.",
+                    "In men without prostate cancer body mass index was not significantly associated with prostate specific antigen after adjusting for age (p = 0.06). A 10-point body mass index increase was associated with a prostate specific antigen difference of -0.03 ng/ml (95% CI -0.40-0.49). Results were similar when men with prostate cancer were included, when percent body fat was substituted for body mass index, and after adjusting for prostate volume. Longitudinal weight changes also had no significant association with prostate specific antigen."
+                ],
+                "labels": [
+                    "PURPOSE",
+                    "MATERIALS AND METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Aged",
+                    "Aged, 80 and over",
+                    "Body Mass Index",
+                    "Humans",
+                    "Longitudinal Studies",
+                    "Male",
+                    "Middle Aged",
+                    "Prostate-Specific Antigen",
+                    "Young Adult"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "21864397": {
+                "contexts": [
+                    "Nasopharyngeal carcinoma (NPC) with lung metastasis alone has been reported as a relatively favorable prognostic group, and combined modality treatment might be indicated for selected cases. However, the prognostic factors determining survival of this group and the indication of combined therapy have not been thoroughly studied.",
+                    "We retrospectively reviewed 246 patients of NPC with lung metastasis(es) alone presented at diagnosis or as the first failure after primary treatment from 1993 to 2008 in an academic tertiary hospital. Univariate and multivariate survival analyses of post-metastasis survival (PMS) and overall survival (OS) were carried out to determine the prognostic factors.",
+                    "The 3-year, 5-year, and 10-year of PMS and OS for the whole cohort were 34.3%, 17.0%, 8.6% and 67.8%, 45.4%, 18.5%, respectively. The median PMS (45.6 months vs. 23.7 months) and OS (73.7 months vs. 46.2 months) of patients treated with combined therapy was significantly longer than that of those treated with chemotherapy alone (P<0.001). Age, disease-free interval (DFI) and treatment modality were evaluated as independent prognostic factors of OS, while only age and treatment modality retain their independent significance in PMS analysis. In stratified survival analysis, compared to chemotherapy alone, combined therapy could benefit the patients with DFI>1 year, but not those with DFI \u2264 1 year."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Carcinoma",
+                    "Chemotherapy, Adjuvant",
+                    "Disease-Free Survival",
+                    "Female",
+                    "Humans",
+                    "Lung Neoplasms",
+                    "Male",
+                    "Middle Aged",
+                    "Nasopharyngeal Neoplasms",
+                    "Neoadjuvant Therapy",
+                    "Neoplasm Recurrence, Local",
+                    "Prognosis",
+                    "Retrospective Studies",
+                    "Survival Rate"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "26104852": {
+                "contexts": [
+                    "Hereditary transthyretin (ATTR) amyloidosis with increased left ventricular wall thickness could easily be misdiagnosed by echocardiography as hypertrophic cardiomyopathy (HCM). Our aim was to create a diagnostic tool based on echocardiography and ECG that could optimise identification of ATTR amyloidosis.",
+                    "Data were analysed from 33 patients with biopsy proven ATTR amyloidosis and 30 patients with diagnosed HCM. Conventional features from ECG were acquired as well as two dimensional and Doppler echocardiography, speckle tracking derived strain and tissue characterisation analysis. Classification trees were used to select the most important variables for differentiation between ATTR amyloidosis and HCM.",
+                    "The best classification was obtained using both ECG and echocardiographic features, where a QRS voltage>30\u2009mm was diagnostic for HCM, whereas in patients with QRS voltage<30\u2009mm, an interventricular septal/posterior wall thickness ratio (IVSt/PWt)>1.6 was consistent with HCM and a ratio<1.6 supported the diagnosis of ATTR amyloidosis. This classification presented both high sensitivity (0.939) and specificity (0.833)."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Aged",
+                    "Amino Acid Substitution",
+                    "Amyloidosis",
+                    "Biopsy",
+                    "Cardiomyopathy, Hypertrophic",
+                    "Diagnosis, Differential",
+                    "Echocardiography, Doppler",
+                    "Electrocardiography",
+                    "Female",
+                    "Gene Expression",
+                    "Heart Ventricles",
+                    "Humans",
+                    "Male",
+                    "Middle Aged",
+                    "Mutation",
+                    "Myocardium",
+                    "Prealbumin"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "18182265": {
+                "contexts": [
+                    "In this study, the authors discussed the feasibility and value of diffusion-weighted (DW) MR imaging in the detection of uterine endometrial cancer in addition to conventional nonenhanced MR images.",
+                    "DW images of endometrial cancer in 23 patients were examined by using a 1.5-T MR scanner. This study investigated whether or not DW images offer additional incremental value to conventional nonenhanced MR imaging in comparison with histopathological results. Moreover, the apparent diffusion coefficient (ADC) values were measured in the regions of interest within the endometrial cancer and compared with those of normal endometrium and myometrium in 31 volunteers, leiomyoma in 14 patients and adenomyosis in 10 patients. The Wilcoxon rank sum test was used, with a p<0.05 considered statistically significant.",
+                    "In 19 of 23 patients, endometrial cancers were detected only on T2-weighted images. In the remaining 4 patients, of whom two had coexisting leiomyoma, no cancer was detected on T2-weighted images. This corresponds to an 83% detection sensitivity for the carcinomas. When DW images and fused DW images/T2-weighted images were used in addition to the T2-weighted images, cancers were identified in 3 of the remaining 4 patients in addition to the 19 patients (overall detection sensitivity of 96%). The mean ADC value of endometrial cancer (n=22) was (0.97+/-0.19)x10(-3)mm(2)/s, which was significantly lower than those of the normal endometrium, myometrium, leiomyoma and adenomyosis (p<0.05)."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "METHODS AND MATERIALS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Aged",
+                    "Contrast Media",
+                    "Diffusion Magnetic Resonance Imaging",
+                    "Endometrial Neoplasms",
+                    "Female",
+                    "Humans",
+                    "Image Enhancement",
+                    "Middle Aged",
+                    "Reproducibility of Results",
+                    "Sensitivity and Specificity",
+                    "Subtraction Technique",
+                    "Whole Body Imaging"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "23999452": {
+                "contexts": [
+                    "Hypoglycaemia caused by glucose-lowering therapy has been linked to cardiovascular (CV) events. The ORIGIN trial provides an opportunity to further assess this relationship.",
+                    "A total of 12 537 participants with dysglycaemia and high CV-risk were randomized to basal insulin glargine titrated to a fasting glucose of \u2264 5.3 mmol/L (95 mg/dL) or standard glycaemic care. Non-severe hypoglycaemia was defined as symptoms confirmed by glucose \u2264 54 mg/dL and severe hypoglycaemia as a requirement for assistance or glucose \u2264 36 mg/dL. Outcomes were: (i) the composite of CV death, non-fatal myocardial infarction or stroke; (ii) mortality; (iii) CV mortality; and (iv) arrhythmic death. Hazards were estimated before and after adjustment for a hypoglycaemia propensity score. During a median of 6.2 years (IQR: 5.8-6.7), non-severe hypoglycaemic episodes occurred in 41.7 and 14.4% glargine and standard group participants, respectively, while severe episodes occurred in 5.7 and 1.8%, respectively. Non-severe hypoglycaemia was not associated with any outcome following adjustment. Conversely, severe hypoglycaemia was associated with a greater risk for the primary outcome (HR: 1.58; 95% CI: 1.24-2.02, P<0.001), mortality (HR: 1.74; 95% CI: 1.39-2.19, P<0.001), CV death (HR: 1.71; 95% CI: 1.27-2.30, P<0.001) and arrhythmic death (HR: 1.77; 95% CI: 1.17-2.67, P = 0.007). Similar findings were noted for severe nocturnal hypoglycaemia for the primary outcome and mortality. The severe hypoglycaemia hazard for all four outcomes was higher with standard care than with insulin glargine."
+                ],
+                "labels": [
+                    "AIMS",
+                    "METHODS AND RESULTS"
+                ],
+                "meshes": [
+                    "Arrhythmias, Cardiac",
+                    "Diabetes Mellitus, Type 2",
+                    "Diabetic Angiopathies",
+                    "Female",
+                    "Glycated Hemoglobin A",
+                    "Humans",
+                    "Hypoglycemia",
+                    "Hypoglycemic Agents",
+                    "Insulin Glargine",
+                    "Insulin, Long-Acting",
+                    "Male",
+                    "Middle Aged",
+                    "Myocardial Infarction",
+                    "Prognosis",
+                    "Risk Factors",
+                    "Stroke"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "21745056": {
+                "contexts": [
+                    "The Pathway represents a longitudinal program for medical students, consisting of both domestic and international experiences with poor populations. A previous study reported no significant attitudinal changes toward the medically indigent between Pathway and non-Pathway students.",
+                    "The purpose of this study was to investigate and differentiate the skills and attitudes of Pathway and non-Pathway students in working with culturally diverse populations by conducting quantitative and qualitative analyses.",
+                    "Selected items from a cultural assessment were analyzed using independent t-tests and a proportional analysis using approximation of the binomial distribution. In addition, a qualitative assessment of non-Pathway and Pathway students was conducted.",
+                    "A statistically significant difference was found at the end of Years 2, 3, and 4 regarding student confidence ratings, and qualitative results had similar findings."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "PURPOSE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Attitude",
+                    "Clinical Competence",
+                    "Cultural Competency",
+                    "Cultural Diversity",
+                    "Curriculum",
+                    "Education, Medical",
+                    "Female",
+                    "Focus Groups",
+                    "Humans",
+                    "Male",
+                    "Massachusetts"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "17274051": {
+                "contexts": [
+                    "The aim of the study was to evaluate the outcomes and patterns of failure in patients with metastatic carcinoma to cervical lymph nodes from an unknown head and neck primary origin, who were treated curatively with radiotherapy, with or without neck dissection.",
+                    "The study included 61 patients referred to the McGill University Hospital Centers from 1987 to 2002. The median age was 57 years, with male to female ratio of 4:1. Distribution of patients by N status was as follows: N1, 16 patients (26%); N2a, 18 (30%); N2b, 13 (22%); N2c, 7 (11%); and N3, 7 (11%). Twenty patients underwent neck dissection (11 radical, 9 functional) and 41 patients had biopsy (9 fine-needle aspiration and 32 excisional biopsy). All patients received radiotherapy. The median dose to the involved node(s) was 64 Gy, and 60 Gy to the rest of the neck. Treatment of the neck was bilateral in 50 patients (82%) and ipsilateral in 11 (18%). The minimum duration of the follow-up was 12 months, with the median of 32 months.",
+                    "The 5- and 8-year overall survival for the whole population was 79% and 67%, respectively. There was no statistically significant difference in the 8-year actuarial overall survival (64.8% and 67.6%, respectively, p = .64) and local relapse-free survival (75% vs 74.5%, respectively, p = .57), among patients who had biopsy versus those who had neck dissection."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Biopsy, Fine-Needle",
+                    "Carcinoma",
+                    "Female",
+                    "Head and Neck Neoplasms",
+                    "Humans",
+                    "Lymph Nodes",
+                    "Lymphatic Irradiation",
+                    "Lymphatic Metastasis",
+                    "Male",
+                    "Middle Aged",
+                    "Neck Dissection",
+                    "Neoplasms, Unknown Primary",
+                    "Radiotherapy Dosage",
+                    "Survival Analysis"
+                ],
+                "reasoning_required_pred": [
+                    "n",
+                    "o"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "27554179": {
+                "contexts": [
+                    "Mediastinal lymph node dissection is an essential component of lung cancer surgery; however, choosing mediastinal lymph nodes stations to be dissected is subjective. We carried out this research to investigate the need for dissection of station 9 lymph nodes during lung cancer surgery.",
+                    "Patients with primary lung cancer who underwent radical surgery between 2010 and 2014 were retrospectively reviewed. Clinical, pathologic, and prognosis data were obtained and analyzed.",
+                    "A total number of 1397 patients were included in this research. The metastasis rate of station 9 was 3.45%, which was significantly lower than other mediastinal stations. This metastasis rate was significantly correlated with pT stage, the lobe where the tumor was located, metastasis status of intrapulmonary lymph nodes, pTNM stage, and most of the other mediastinal lymph node stations. In males or ground glass opacity (GGO) patients, the metastasis of station 9 nodes was more unlikely to occur, even though there was no statistical significance. The staging results of most patients (99.63%) would not be impaired, even if station 9 nodes were not dissected, and the prognostic analysis showed that the metastasis status of station 9 had no significant influence on survival."
+                ],
+                "labels": [
+                    "OBJECTIVES",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Aged",
+                    "Female",
+                    "Humans",
+                    "Lung Neoplasms",
+                    "Lymph Node Excision",
+                    "Lymphatic Metastasis",
+                    "Male",
+                    "Middle Aged",
+                    "Prognosis",
+                    "Retrospective Studies"
+                ],
+                "reasoning_required_pred": [
+                    "n",
+                    "o"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "23539689": {
+                "contexts": [
+                    "To characterize the use and delivery of cough and cold medicines in children younger than 6 presenting to an inner-city pediatric emergency department (PED) following 2007 FDA warnings.",
+                    "A cross-sectional observational study was performed using a convenience sampling of PED patients during the fall of 2010. Caregivers were presented with 6 commonly used cough medicine preparations and were asked to demonstrate if and how they would administer these to their children.",
+                    "In all, 65 patients and their caregivers consented and participated in the study. During the demonstration, 82% (53/65) stated that they would treat with cough or cold medicines, and 72% (38/53) incorrectly dosed the medication they desired to give."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Antitussive Agents",
+                    "Caregivers",
+                    "Child",
+                    "Child, Preschool",
+                    "Common Cold",
+                    "Cough",
+                    "Cross-Sectional Studies",
+                    "Drug Packaging",
+                    "Female",
+                    "Humans",
+                    "Infant",
+                    "Infant, Newborn",
+                    "Male",
+                    "Nasal Decongestants",
+                    "Nonprescription Drugs",
+                    "United States",
+                    "United States Food and Drug Administration"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "15381614": {
+                "contexts": [
+                    "Cutaneous melanoma in nonwhite persons has a manifestation and a prognosis that are different than those of cutaneous melanoma in white persons.",
+                    "Case series.",
+                    "Tertiary care university-affiliated community medical center located in a multiethnic state in which white persons are a minority of the population.",
+                    "Consecutive series of 357 patients with melanoma seen between January 1994 and August 2003.",
+                    "Ethnicity, age, sex, primary site, tumor thickness, nodal status, stage at diagnosis, and survival.",
+                    "There were 208 men and 149 women who ranged in age from 15 to 93 years (mean, 58 years). Twenty-two patients initially had unknown primary sites. Of these 357 patients, 67 (18.7%) were nonwhite. There was no statistically significant difference in the age (P =.10) or sex (P =.57) distribution of these 2 populations. Nonwhite patients at initial diagnosis had thicker tumors (P =.002), more frequently had ulcerated primary tumors (P<.001), more frequently had positive nodes (P =.004), and were at a more advanced stage (P =.002) than their white counterparts. The anatomic distribution between the 2 populations was significantly different (P<.001), with a high incidence of melanoma on the sole and subungual locations and a substantially less frequent occurrence on the head and neck, trunk, and extremities in the nonwhite population when compared with the white population. The overall survival rate of the nonwhite patients was significantly worse than that of the white patients, but when stratified by stage at initial diagnosis, there was no difference in outcome."
+                ],
+                "labels": [
+                    "HYPOTHESIS",
+                    "DESIGN",
+                    "SETTING",
+                    "PATIENTS",
+                    "MAIN OUTCOME MEASURES",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Adult",
+                    "Aged",
+                    "Aged, 80 and over",
+                    "Chi-Square Distribution",
+                    "Combined Modality Therapy",
+                    "Female",
+                    "Humans",
+                    "Male",
+                    "Melanoma",
+                    "Middle Aged",
+                    "Phenotype",
+                    "Proportional Hazards Models",
+                    "Skin Neoplasms"
+                ],
+                "reasoning_required_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "11970923": {
+                "contexts": [
+                    "The prevalence of retinal haemorrhages after convulsions is not well established. As these haemorrhages are considered characteristic of child abuse, we investigated their occurrence after convulsive episodes to see whether the finding of haemorrhage should prompt further investigation.",
+                    "Prospective study of 153 children (aged 2 months to 2 years), seen in the emergency department after a convulsive episode. After a thorough history and physical examination, a retinal examination was performed by an ophthalmologist. If findings were positive, further investigation was undertaken to rule out systemic disorder or child abuse.",
+                    "One child was found with unilateral retinal haemorrhages following an episode of a simple febrile convulsion. A thorough investigation uncovered no other reason for this finding."
+                ],
+                "labels": [
+                    "BACKGROUND AND AIMS",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Child Abuse",
+                    "Child, Preschool",
+                    "Diagnosis, Differential",
+                    "Female",
+                    "Humans",
+                    "Infant",
+                    "Male",
+                    "Ophthalmoscopy",
+                    "Physical Examination",
+                    "Prospective Studies",
+                    "Referral and Consultation",
+                    "Retinal Hemorrhage",
+                    "Seizures"
+                ],
+                "reasoning_required_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "25819796": {
+                "contexts": [
+                    "Cerebral hemispherectomy, a surgical procedure undergone to control intractable seizures, is becoming a standard procedure with more cases identified and treated early in life [33]. While the effect of the dominant hemisphere resection on spoken language has been extensively researched, little is known about reading abilities in individuals after left-sided resection. Left-lateralized phonological abilities are the key components of reading, i.e., grapheme-phoneme conversion skills [1]. These skills are critical for the acquisition of word-specific orthographic knowledge and have been shown to predict reading levels in average readers as well as in readers with mild cognitive disability [26]. Furthermore, impaired phonological processing has been implicated as the cognitive basis in struggling readers. Here, we explored the reading skills in participants who have undergone left cerebral hemispherectomy.",
+                    "Seven individuals who have undergone left cerebral hemispherectomy to control intractable seizures associated with perinatal infarct have been recruited for this study. We examined if components of phonological processing that are shown to reliably separate average readers from struggling readers, i.e., phonological awareness, verbal memory, speed of retrieval, and size of vocabulary, show the same relationship to reading levels when they are mediated by the right hemisphere [2].",
+                    "We found that about 60% of our group developed both word reading and paragraph reading in the average range. Phonological processing measured by both phonological awareness and nonword reading was unexpectedly spared in the majority of participants. Phonological awareness levels strongly correlated with word reading. Verbal memory, a component of phonological processing skills, together with receptive vocabulary size, positively correlated with reading levels similar to those reported in average readers. Receptive vocabulary, a bilateral function, was preserved to a certain degree similar to that of strongly left-lateralized phonological skills [3]. Later seizure onset was associated with better reading levels."
+                ],
+                "labels": [
+                    "OBJECTIVES",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Child",
+                    "Cohort Studies",
+                    "Drug Resistant Epilepsy",
+                    "Female",
+                    "Functional Laterality",
+                    "Hemispherectomy",
+                    "Humans",
+                    "Literacy",
+                    "Male",
+                    "Postoperative Period",
+                    "Reading",
+                    "Young Adult"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "21074975": {
+                "contexts": [
+                    "The ultra high risk (UHR) for psychosis criteria have been validated in a number of studies. However, it is not known whether particular UHR criteria (Attenuated Psychotic Symptoms (APS), Brief Limited Intermittent Psychotic Symptoms (BLIPS) or Trait vulnerability criteria), or combination of criteria, is associated with a higher risk of transition to psychosis. The current study investigated this issue over a 6-month follow-up period. We hypothesised that the risk of transition would increase in the following order: Trait alone<APS alone<APS+Trait<BLIPS.",
+                    "Data on UHR intake criteria and transition to psychosis status at 6 months were analysed for UHR patients seen at the PACE clinic, Orygen Youth Health between January 2000 and November 2008.",
+                    "A total of 928 new referrals were accepted into the PACE clinic over this period of whom 817 (88%) had baseline information available for analysis. The percentage of subjects who presented with APS, Trait and BLIPS were 83%, 27% and 4%, respectively. When the two intermediate groups (APS alone and APS+Trait) were combined, there was evidence that the risk of transition increased in the order of Trait alone<APS<BLIPS (p=0.024, adjusted analysis)."
+                ],
+                "labels": [
+                    "INTRODUCTION",
+                    "METHOD",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Adult",
+                    "Female",
+                    "Follow-Up Studies",
+                    "Humans",
+                    "Male",
+                    "Neuropsychological Tests",
+                    "Psychiatric Status Rating Scales",
+                    "Psychotic Disorders",
+                    "Regression Analysis",
+                    "Retrospective Studies",
+                    "Risk Factors",
+                    "Severity of Illness Index",
+                    "Time Factors",
+                    "Young Adult"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "21214884": {
+                "contexts": [
+                    "Using polymerase chain reaction techniques, we evaluated the presence of HPV infection in human breast milk collected from 21 HPV-positive and 11 HPV-negative mothers.",
+                    "Of the 32 studied human milk specimens, no 'high-risk' HPV 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58 or 58 DNA was detected."
+                ],
+                "labels": [
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Alphapapillomavirus",
+                    "Case-Control Studies",
+                    "DNA, Viral",
+                    "Female",
+                    "Humans",
+                    "Infant",
+                    "Infectious Disease Transmission, Vertical",
+                    "Milk, Human",
+                    "Papillomavirus Infections",
+                    "Polymerase Chain Reaction",
+                    "Risk Assessment",
+                    "Young Adult"
+                ],
+                "reasoning_required_pred": [
+                    "n",
+                    "o"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "19145527": {
+                "contexts": [
+                    "The primary objective of the study was to determine emergency medical services (EMS) professionals' opinions regarding participation in disease and injury prevention programs. A secondary objective was to determine the proportion of EMS professionals who had participated in disease prevention programs.",
+                    "As part of the National Registry of Emergency Medical Technicians' biennial reregistration process, EMS professionals reregistering in 2006 were asked to complete an optional survey regarding their opinions on and participation in disease and injury prevention. Demographic characteristics were also collected. Data were analyzed using descriptive statistics and 99% confidence intervals (CIs). The chi-square test was used to compare differences by responder demographics (alpha = 0.01). A 10% difference between groups was determined to be clinically significant.",
+                    "The survey was completed by 27,233 EMS professionals. Of these responders, 82.7% (99% CI: 82.1-83.3) felt that EMS professionals should participate in disease prevention, with those working 20 to 29 hours per week being the least likely to think they should participate (67.4%, p<0.001). About a third, 33.8% (99% CI: 33.1-34.6), of the respondents reported having provided prevention services, with those having a graduate degree (43.5%, p<0.001), those working in EMS for more than 21 years (44%, p<0.001), those working for the military (57%, p<0.001), those working 60 to 69 hours per week (41%, p<0.001), and those responding to zero emergency calls in a typical week (43%, p<0.001) being the most likely to report having provided prevention services. About half, 51.1% (99% CI: 50.4-51.9), of the respondents agreed that prevention services should be provided during emergency calls, and 7.7% (99% CI: 7.3-8.1) of the respondents reported providing prevention services during emergency calls. No demographic differences existed. Those who had participated in prevention programs were more likely to respond that EMS professionals should participate in prevention (92% vs. 82%, p<0.001). Further, those who had provided prevention services during emergency calls were more likely to think EMS professionals should provide prevention services during emergency calls (81% vs. 51%, p<0.001)."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Accidents, Home",
+                    "Accidents, Occupational",
+                    "Attitude of Health Personnel",
+                    "Data Collection",
+                    "Emergency Medical Technicians",
+                    "Health Promotion",
+                    "Humans",
+                    "Wounds and Injuries"
+                ],
+                "reasoning_required_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "12626177": {
+                "contexts": [
+                    "To assess Internet use amongst young people to determine whether it would be a practical way to provide sex education and information.",
+                    "Year 10 students (aged 14-15 years) from North Nottinghamshire schools were asked to participate in focus groups to discuss the Internet. A series of predefined questions were directed to the whole group to generate debate. Areas explored included: Internet access and site; frequency and purpose of Internet use; websites visited; ideas for a genitourinary medicine (GUM) website. Responses were recorded by a hand count or as individual verbal responses.",
+                    "Thirteen focus groups were held involving 287 students of approximately equal sex distribution. All had access to Internet facilities at school and 224 (78.0%) had access elsewhere. Access was at least once a week by 178 (62.0%) mostly for e-mail, games, chatlines and homework. No one accessed for health information. One hundred and seventy-nine (62.4%) participants said they would use a GUM website. A 'question line' where they could e-mail questions to a health care professional was of interest to 202 (70.4%) participants."
+                ],
+                "labels": [
+                    "OBJECTIVES",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "England",
+                    "Female",
+                    "Focus Groups",
+                    "Health Education",
+                    "Humans",
+                    "Information Dissemination",
+                    "Internet",
+                    "Male",
+                    "Public Health",
+                    "Reproductive Medicine",
+                    "Safe Sex",
+                    "School Health Services",
+                    "Sex Education"
+                ],
+                "reasoning_required_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "23088164": {
+                "contexts": [
+                    "The aim was to investigate the relationship between cognitive ability and frequency compressed speech recognition in listeners with normal hearing and normal cognition.",
+                    "Speech-in-noise recognition was measured using Institute of Electrical and Electronic Engineers sentences presented over earphones at 65 dB SPL and a range of signal-to-noise ratios. There were three conditions: unprocessed, and at frequency compression ratios of 2:1 and 3:1 (cut-off frequency, 1.6 kHz). Working memory and cognitive ability were measured using the reading span test and the trail making test, respectively.",
+                    "Participants were 15 young normally-hearing adults with normal cognition.",
+                    "There was a statistically significant reduction in mean speech recognition from around 80% when unprocessed to 40% for 2:1 compression and 30% for 3:1 compression. There was a statistically significant relationship between speech recognition and cognition for the unprocessed condition but not for the frequency-compressed conditions."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "DESIGN",
+                    "STUDY SAMPLE",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Acoustic Stimulation",
+                    "Adult",
+                    "Analysis of Variance",
+                    "Audiometry, Speech",
+                    "Cognition",
+                    "Female",
+                    "Humans",
+                    "Male",
+                    "Memory",
+                    "Noise",
+                    "Perceptual Masking",
+                    "Recognition (Psychology)",
+                    "Signal Detection, Psychological",
+                    "Speech Perception",
+                    "Trail Making Test"
+                ],
+                "reasoning_required_pred": [
+                    "n",
+                    "o"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "18269157": {
+                "contexts": [
+                    "To describe the biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery.",
+                    "Histologic, ultrastructural, and cohesive tensile strength evaluations were performed on 25 normal human corneal specimens, 206 uncomplicated LASIK specimens, 17 uncomplicated sub-Bowman's keratomileusis (SBK) specimens, 4 uncomplicated photorefractive keratectomy (PRK) specimens, 2 uncomplicated advanced surface ablation (ASA) specimens, 5 keratoconus specimens, 12 postoperative LASIK ectasia specimens, and 1 postoperative PRK ectasia specimen and compared to previously published studies.",
+                    "Histologic and ultrastructural studies of normal corneas showed significant differences in the direction of collagen fibrils and/or the degree of lamellar interweaving in Bowman's layer, the anterior third of the corneal stroma, the posterior two-thirds of the corneal stroma, and Descemet's membrane. Cohesive tensile strength testing directly supported these morphologic findings as the stronger, more rigid regions of the cornea were located anteriorly and peripherally. This suggests that PRK and ASA, and secondarily SBK, should be biomechanically safer than conventional LASIK with regard to risk for causing keratectasia after surgery. Because adult human corneal stromal wounds heal slowly and incompletely, all excimer laser keratorefractive surgical techniques still have some distinct disadvantages due to inadequate reparative wound healing. Despite reducing some of the risk for corneal haze compared to conventional PRK, ASA cases still can develop corneal haze or breakthrough haze from the hypercellular fibrotic stromal scarring. In contrast, similar to conventional LASIK, SBK still has the short- and long-term potential for interface wound complications from the hypocellular primitive stromal scar."
+                ],
+                "labels": [
+                    "PURPOSE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Biomechanical Phenomena",
+                    "Bowman Membrane",
+                    "Compressive Strength",
+                    "Cornea",
+                    "Corneal Surgery, Laser",
+                    "Humans",
+                    "Keratoconus",
+                    "Lasers, Excimer",
+                    "Tensile Strength",
+                    "Wound Healing"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "22519710": {
+                "contexts": [
+                    "The temporal pattern of the biologic mechanism linking red blood cell (RBC) storage duration with clinical outcomes is yet unknown. This study investigates how such a temporal pattern can affect the power of randomized controlled trials (RCT) to detect a relevant clinical outcome mediated by the transfusion of stored RBCs.",
+                    "This study was a computer simulation of four RCTs, each using a specific categorization of the RBC storage time. The trial's endpoint was evaluated assuming five hypothetical temporal patterns for the biologic mechanism linking RBC storage duration with clinical outcomes.",
+                    "Power of RCTs to unveil a significant association between RBC storage duration and clinical outcomes was critically dependent on a complex interaction among three factors: 1) the way the RBC storage time is categorized in the trial design, 2) the temporal pattern assumed for the RBC storage lesion, and 3) the age distribution of RBCs in the inventory from which they are picked up for transfusion. For most combinations of these factors, the power of RCTs to detect a significant treatment effect was below 80%. All the four simulated RCTs had a very low power to disclose a harmful clinical effect confined to last week of the maximum 42-day shelf life of stored RBCs."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "STUDY DESIGN AND METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Blood Preservation",
+                    "Computer Simulation",
+                    "Erythrocyte Transfusion",
+                    "Erythrocytes",
+                    "Humans",
+                    "Randomized Controlled Trials as Topic",
+                    "Time Factors"
+                ],
+                "reasoning_required_pred": [
+                    "n",
+                    "o"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "19578820": {
+                "contexts": [
+                    "Opioid-dependent patients often have co-occurring chronic illnesses requiring medications that interact with methadone. Methadone maintenance treatment (MMT) is typically provided separately from medical care. Hence, coordination of medical care and substance use treatment is important to preserve patient safety.",
+                    "To identify potential safety risks among MMT patients engaged in medical care by evaluating the frequency that opioid dependence and MMT documentation are missing in medical records and characterizing potential medication-methadone interactions.",
+                    "Among patients from a methadone clinic who received primary care from an affiliated, but separate, medical center, we reviewed electronic medical records for documentation of methadone, opioid dependence, and potential drug-methadone interactions. The proportions of medical records without opioid dependence and methadone documentation were estimated and potential medication-methadone interactions were identified.",
+                    "Among the study subjects (n = 84), opioid dependence documentation was missing from the medical record in 30% (95% CI, 20%-41%) and MMT documentation was missing from either the last primary care note or the last hospital discharge summary in 11% (95% CI, 5%-19%). Sixty-nine percent of the study subjects had at least 1 medication that potentially interacted with methadone; 19% had 3 or more potentially interacting medications."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "OBJECTIVE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Documentation",
+                    "Drug Interactions",
+                    "Female",
+                    "Humans",
+                    "Male",
+                    "Medical Records",
+                    "Medical Records Systems, Computerized",
+                    "Methadone",
+                    "Middle Aged",
+                    "Opioid-Related Disorders",
+                    "Retrospective Studies",
+                    "Risk Factors"
+                ],
+                "reasoning_required_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "14992556": {
+                "contexts": [
+                    "Ambulatory 24-h dual-channel pharyngeal and oesophageal pH monitoring is the standard test for measuring gastro-oesophageal and gastropharyngeal reflux. Artefacts caused by the intake of food may result in falsely positive gastropharyngeal reflux, which necessitates a manual review of 24-h pH data. The purpose of the study was to investigate the influence of meals and whether leaving out meals affected the reliability of the test.",
+                    "Patients referred for otolaryngological complaints, suspected to have been caused by gastro-oesophageal reflux, underwent 24-h dual-channel pH monitoring. The raw unprocessed pH data were corrected by visual inspection of the 24-h tracings (corrected data), by leaving out meals or meals plus a 2-h postprandrial period.",
+                    "The raw pH data were substantially influenced by artefacts of food intake and pseudoreflux. Data obtained by leaving out meals agreed best with manually corrected data. Many of the falsely positive reflux episodes could be removed, thereby inducing a 9%-18% chance of undetected reflux. When examining the fraction of time supine, manually corrected data and data leaving out meals were fully concordant and detected 79% of patients with gastropharyngeal reflux. However, leaving out meals plus a 2-h postprandrial period resulted in 21%-50% falsely negative tests."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Aged",
+                    "Aged, 80 and over",
+                    "Artifacts",
+                    "Eating",
+                    "Esophagus",
+                    "Feasibility Studies",
+                    "Female",
+                    "Gastroesophageal Reflux",
+                    "Humans",
+                    "Hydrogen-Ion Concentration",
+                    "Male",
+                    "Middle Aged",
+                    "Monitoring, Ambulatory",
+                    "Pharynx",
+                    "Postprandial Period",
+                    "Prospective Studies",
+                    "Reproducibility of Results",
+                    "Statistics as Topic"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "25636371": {
+                "contexts": [
+                    "Treatment of HBeAg-negative chronic hepatitis B (CHB) with nucleos(t)ide analogues (NA) is usually indefinite, since the loss of HBsAg, as a criterion for its discontinuation, is a rare event. Recent evidence suggests that discontinuing NA therapy may be feasible in selected patients.",
+                    "To analyze the rate of virological relapse in patients with HBeAg-negative CHB who discontinued treatment with NAs.",
+                    "We performed a single-center observational study that included 140 patients with HBsAg-negative CHB. Twenty-two patients, who received only NAs, discontinued treatment for different reasons and were subsequently monitored. All had normal ALT and AST, undetectable DNA and absence of cirrhosis or significant comorbidities before stopping treatment.",
+                    "Twelve patients showed virologic relapse (54.54%). The mean interval between discontinuation and relapse was 6.38 months (\u00b1 1.9) (75% relapsed during the first 12 months after discontinuation). Five received adefovir, 1 lamivudine and adefovir, 1 tenofovir and 5 lamivudine alone. The mean treatment duration in this group was 38.5 months (\u00b1 4.5). The sustained response group had a higher mean age and longer treatment duration than patients with virologic relapse but these differences were not statistically significant."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "OBJECTIVES",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Aged",
+                    "Alanine Transaminase",
+                    "Antiviral Agents",
+                    "Aspartate Aminotransferases",
+                    "DNA, Viral",
+                    "Drug Therapy, Combination",
+                    "Female",
+                    "Hepatitis B e Antigens",
+                    "Hepatitis B virus",
+                    "Hepatitis B, Chronic",
+                    "Humans",
+                    "Liver Cirrhosis",
+                    "Male",
+                    "Middle Aged",
+                    "Nucleotides",
+                    "Recurrence",
+                    "Treatment Outcome"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "m",
+                    "a",
+                    "y",
+                    "b",
+                    "e"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "14518645": {
+                "contexts": [
+                    "Deaths from injury and poisoning (suicide, accidents, undetermined deaths, and homicide) are the major cause of death among young men aged 15-39 years in England and Wales and have been increasing in recent years.AIM: To describe common characteristics among young men who die from injury and poisoning.",
+                    "We employed a retrospective survey methodology to investigate factors associated with deaths by injury and poisoning among young men aged 15-39 years (n = 268) in Merseyside and Cheshire during 1995. Data were collected from Coroner's inquest notes and General Practitioner records.",
+                    "The most common cause of death was poisoning by alcohol and drugs (29.1%, n = 78). A high proportion of cases were unemployed (39.4%, n = 106). Cases were also more likely to be single compared to the general population (74.2% vs 55.5%). Self-destructive behaviour was evident in 77% of deaths (n = 206)."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "DESIGN",
+                    "MAIN RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Adult",
+                    "Cause of Death",
+                    "Data Collection",
+                    "England",
+                    "Humans",
+                    "Male",
+                    "Poisoning",
+                    "Retrospective Studies",
+                    "Risk Factors",
+                    "Self-Injurious Behavior",
+                    "Substance-Related Disorders",
+                    "Suicide",
+                    "Wales",
+                    "Wounds and Injuries"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "8422202": {
+                "contexts": [
+                    "The specific aim of this investigation was to evaluate the proficiency of health care providers and patients in the proper use of metered-dose inhalers.",
+                    "Health care providers, which include house staff, nurses, and respiratory care practitioners who provide care to patients with asthma in the primary general medicine clinic or the pulmonary medicine clinic of a university-county hospital in which patients were referred, were surveyed and assigned a performance score regarding the knowledge base of the appropriate use of metered-dose inhalers. Patients who attended the primary care general medicine and pulmonary subspecialty clinic were also assessed as to their proficiency in the use of metered-dose inhalers.",
+                    "A significant percentage of patients had a poor understanding of the technique used with the metered-dose inhaler. House staff and nursing staff were also less proficient in the proper use of the metered-dose inhaler. The respiratory care practitioners were the most knowledgeable of the health care providers."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "DESIGN, SETTING, AND PARTICIPANTS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Asthma",
+                    "Hospital Bed Capacity, 500 and over",
+                    "Humans",
+                    "Internship and Residency",
+                    "Nebulizers and Vaporizers",
+                    "Nursing Staff, Hospital",
+                    "Outpatient Clinics, Hospital",
+                    "Patient Education as Topic",
+                    "Respiratory Therapy",
+                    "Respiratory Therapy Department, Hospital",
+                    "Texas"
+                ],
+                "reasoning_required_pred": [
+                    "n",
+                    "o"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "10158597": {
+                "contexts": [
+                    "To evaluate the effectiveness of the role of a discharge coordinator whose sole responsibility was to plan and coordinate the discharge of patients from medical wards.",
+                    "An intervention study in which the quality of discharge planning was assessed before and after the introduction of a discharge coordinator. Patients were interviewed on the ward before discharge and seven to 10 days after being discharged home.",
+                    "The three medical wards at the Homerton Hospital in Hackney, East London.",
+                    "600 randomly sampled adult patients admitted to the medical wards of the study hospital, who were resident in the district (but not in institutions), were under the care of physicians (excluding psychiatry), and were discharged home from one of the medical wards. The sampling was conducted in three study phases, over 18 months.",
+                    "Phase I comprised base line data collection; in phase II data were collected after the introduction of the district discharge planning policy and a discharge form (checklist) for all patients; in phase III data were collected after the introduction of the discharge coordinator.",
+                    "The quality and out come of discharge planning. Readmission rates, duration of stay, appropriateness of days of care, patients' health and satisfaction, problems after discharge, and receipt of services.",
+                    "The discharge coordinator resulted in an improved discharge planning process, and there was a reduction in problems experienced by patients after discharge, and in perceived need for medical and healthcare services. There was no evidence that the discharge coordinator resulted in a more timely or effective provision of community services after discharge, or that the appropriateness or efficiency of bed use was improved."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "DESIGN",
+                    "SETTING",
+                    "PATIENTS",
+                    "INTERVENTIONS",
+                    "MAIN MEASURES",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Activities of Daily Living",
+                    "Health Status Indicators",
+                    "Humans",
+                    "Length of Stay",
+                    "London",
+                    "Patient Discharge",
+                    "Patient Readmission",
+                    "Patient Satisfaction",
+                    "Program Evaluation",
+                    "Quality Assurance, Health Care",
+                    "Social Work",
+                    "State Medicine"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "9550200": {
+                "contexts": [
+                    "To study the relationship between lunar position and the day of delivery; to investigate the synodic distribution of spontaneous deliveries, especially in relation to the presence of a full moon.",
+                    "Retrospective analysis of 1248 spontaneous full-term deliveries in three-year period (36 lunar months), setted at Department of Obstetrics and Gynaecology, Civil Hospital, Fano (Marche, Italy), using circular statistics techniques.",
+                    "A connection between the distribution of spontaneous full-term deliveries and the lunar month was found. The effect of the phases of the moon seems to be particularly relevant in multiparae and plurigravidae; in these cases, the mean day of delivery corresponds to the first or second day after the full moon."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "STUDY DESIGN",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Confidence Intervals",
+                    "Delivery, Obstetric",
+                    "Female",
+                    "Humans",
+                    "Moon",
+                    "Parity",
+                    "Pregnancy",
+                    "Pregnancy, Multiple",
+                    "Retrospective Studies"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "25614468": {
+                "contexts": [
+                    "The aim of this study was to prospectively compare the diagnostic performance of magnetic resonance imaging (MRI), multidetector computed tomography (MDCT) and endoscopic ultrasonography (EUS) in the preoperative locoregional staging of gastric cancer.",
+                    "This study had Institutional Review Board approval, and informed consent was obtained from all patients. Fifty-two patients with biopsy-proven gastric cancer underwent preoperative 1.5-T MRI, 64-channel MDCT and EUS. All images were analysed blind, and the results were compared with histopathological findings according to the seventh edition of the TNM classification. After the population had been divided on the basis of the local invasion (T1-3 vs T4a-b) and nodal involvement (N0 vs N+), sensitivity, specificity, positive and negative predictive value, and accuracy were calculated and diagnostic performance measures were assessed using the McNemar test.",
+                    "For T staging, EUS showed higher sensitivity (94%) than MDCT and MRI (65 and 76%; p = 0.02 and p = 0.08). MDCT and MRI had significantly higher specificity (91 and 89%) than EUS (60%) (p = 0.0009 and p = 0.003). Adding MRI to MDCT or EUS did not result in significant differences for sensitivity. For N staging, EUS showed higher sensitivity (92%) than MRI and MDCT (69 and 73%; p = 0.01 and p = 0.02). MDCT showed better specificity (81%) than EUS and MRI (58 and 73%; p = 0.03 and p = 0.15)."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adult",
+                    "Aged",
+                    "Aged, 80 and over",
+                    "Endosonography",
+                    "Female",
+                    "Humans",
+                    "Magnetic Resonance Imaging",
+                    "Male",
+                    "Middle Aged",
+                    "Multidetector Computed Tomography",
+                    "Multimodal Imaging",
+                    "Neoplasm Staging",
+                    "Preoperative Care",
+                    "Prospective Studies",
+                    "Sensitivity and Specificity",
+                    "Stomach Neoplasms"
+                ],
+                "reasoning_required_pred": [
+                    "n",
+                    "o"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "17914515": {
+                "contexts": [
+                    "To discuss and compare the results of suturing the nasal septum after septoplasty with the results of nasal packing.",
+                    "A prospective study, which was performed at Prince Hashem Military Hospital in Zarqa, Jordan and Prince Rashed Military Hospital in Irbid, Jordan between September 2005 and August 2006 included 169 consecutive patients that underwent septoplasty. The patients were randomly divided into 2 groups. After completion of surgery, the nasal septum was sutured in the first group while nasal packing was performed in the second group.",
+                    "Thirteen patients (15.3%) in the first group and 11 patients (13%) in the second group had minor oozing in the first 24 hours, 4 patients (4.8%) had bleeding after removal of the pack in the second group. Four patients (4.8%) developed septal hematoma in the second group. Two patients (2.4%) had septal perforation in the second group. One patient (1.1%) in the first group, and 5 patients (5.9%) in the second group had postoperative adhesions. Five patients (5.9%) were found to have remnant deviated nasal septum in each group. The operating time was 4 minutes longer in the first group."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Adult",
+                    "Bandages",
+                    "Female",
+                    "Humans",
+                    "Male",
+                    "Middle Aged",
+                    "Nasal Septum",
+                    "Postoperative Care",
+                    "Prospective Studies",
+                    "Suture Techniques",
+                    "Treatment Outcome"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "23422012": {
+                "contexts": [
+                    "Vancomycin is the primary treatment for infections caused by methicilin-resistant Staphylococcus aureus (MRSA). The association of vancomycin treatment failures with increased vancomycin minimum inhibitory concentration (MIC) is a well-recognized problem. A number of single-centre studies have identified progressive increases in glycopeptide MICs for S. aureus strains over recent years - a phenomenon known as vancomycin MIC creep. It is unknown if this is a worldwide phenomenon or if it is localized to specific centers.",
+                    "The aim of this study was to evaluate the trend of vancomycin MIC for isolates of MRSA over a 3-year period in a tertiary university hospital in Portugal. MRSA isolates from samples of patients admitted from January 2007 to December 2009 were assessed. Etest method was used to determine the respective vancomycin MIC. Only one isolate per patient was included in the final analysis.",
+                    "A total of 93 MRSA isolates were studied. The vancomycin MICs were 0.75, 1, 1.5 and 2 mg/L for 1 (1.1%), 19 (20.4%), 38 (40.9%), 35 (37.6%) isolates, respectively. During the 3 year period, we observed a significant fluctuation in the rate of MRSA with a vancomycin MIC\u2009>\u20091 mg/L (2007: 86.2%; 2008: 93.3%; 2009: 58.8%, p\u2009=\u20090.002). No MRSA isolate presented a MIC\u2009>\u20092 mg/L."
+                ],
+                "labels": [
+                    "BACKGROUND",
+                    "METHODS",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Anti-Bacterial Agents",
+                    "Hospitals, University",
+                    "Humans",
+                    "Microbial Sensitivity Tests",
+                    "Staphylococcus aureus",
+                    "Vancomycin"
+                ],
+                "reasoning_required_pred": [
+                    "y",
+                    "e",
+                    "s"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            },
+            "18719011": {
+                "contexts": [
+                    "To compare growth curves of body mass index from children to adolescents, and then to young adults, in Japanese girls and women in birth cohorts born from 1930 to 1999.",
+                    "Retrospective repeated cross sectional annual nationwide surveys (national nutrition survey, Japan) carried out from 1948 to 2005.",
+                    "Japan.",
+                    "76,635 females from 1 to 25 years of age.",
+                    "Body mass index.",
+                    "Generally, body mass index decreased in preschool children (2-5 years), increased in children (6-12 years) and adolescents (13-18 years), and slightly decreased in young adults (19-25 years) in these Japanese females. However, the curves differed among birth cohorts. More recent cohorts were more overweight as children but thinner as young women. The increments in body mass index in early childhood were larger in more recent cohorts than in older cohorts. However, the increments in body mass index in adolescents were smaller and the decrease in body mass index in young adults started earlier, with lower peak values in more recent cohorts than in older cohorts. The decrements in body mass index in young adults were similar in all birth cohorts."
+                ],
+                "labels": [
+                    "OBJECTIVE",
+                    "DESIGN",
+                    "SETTING",
+                    "PARTICIPANTS",
+                    "MAIN OUTCOME MEASURE",
+                    "RESULTS"
+                ],
+                "meshes": [
+                    "Adolescent",
+                    "Adult",
+                    "Aged",
+                    "Body Mass Index",
+                    "Child",
+                    "Child, Preschool",
+                    "Cross-Sectional Studies",
+                    "Female",
+                    "Growth",
+                    "Humans",
+                    "Infant",
+                    "Japan",
+                    "Middle Aged",
+                    "Overweight",
+                    "Prevalence",
+                    "Thinness"
+                ],
+                "reasoning_required_pred": [
+                    "n",
+                    "o"
+                ],
+                "reasoning_free_pred": [
+                    "n",
+                    "o"
+                ],
+                "config": "none",
+                "task": "pubmed_qa",
+                "prompt": "pubmed_qa"
+            }
+        }
+    }
+}
