@@ -2,13 +2,16 @@ from datasets import load_dataset
 import json
 file = load_dataset("lasha-nlp/CONDAQA")
 def item2instruction(item):
-    new = item
-    new["config"]="none"
-    new["task"]="condaqa"
-    new["prompt"]="condaqa"
-    return new
-# # for item in file:
-# print(file)
+    premise = item["sentence1"]
+    hypothesis = item["sentence2"]
+    return {
+        "source": f"Given \"{premise}\" Should we assume that \"{hypothesis}\" is true?",
+        "target": item["label"],
+        "labels_list":["YES", "DON'T KNOW", "NO"],
+        "config": "none",
+        "task": "condaqa",
+        "prompt": "condaqa"
+    }
 list_test = {"condaqa":{"condaqa":{}}}
 list_val = {"condaqa":{"condaqa":{}}}
 list_train = {"condaqa":{"condaqa":{}}}

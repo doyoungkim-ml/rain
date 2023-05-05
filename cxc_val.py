@@ -37,6 +37,7 @@ for row in reader:
         list_train.append({
             "source": f"Given \"{sent1}\" Can we say that \"{sent2}\" is correct? Yes, No, or Maybe?",
             "target": answer,
+            "labels_list":["Yes", "No", "Maybe"],
             "config": "none",
             "task": "cxc",
             "prompt": "cxc"

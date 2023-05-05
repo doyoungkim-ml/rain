@@ -6,6 +6,7 @@ def item2instruction(item):
     return {
         "source": f"Classify the relation between the following two sentences as one of entailment, neutral, or contradiction:\n\nSentence 1: {premise}\n\nSentence 2: {hypothesis}",
         "target": item["gold_label"],
+        "labels_list":["entailment", "contradiction", "neutral"],
         "config": "none",
         "task": "mednli",
         "prompt": "mednli"

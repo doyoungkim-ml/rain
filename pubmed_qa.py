@@ -4,15 +4,17 @@ import random
 import os
 import ast
 def item2instruction(item):
-    premise = item["question"]
+    hypothesis = item["question"]
     context_dict = ast.literal_eval(str(item["context"]))
-    context = context_dict
+    premise = ('\n').join(context_dict["contexts"])
+    context={}
+    context["source"]= f"\"{premise}\"\nQuestion:\n\"{hypothesis}\"",
+    context["target"]=item["final_decision"]
+    context["list_label"]=["yes", "no", "maybe"]
     context["config"]="none"
     context["task"]="pubmed_qa"
     context["prompt"]="pubmed_qa"
     return context
-# # for item in file:
-# print(file)
 list_test = {"pubmed_qa":{"pubmed_qa":{}}}
 list_val = {"pubmed_qa":{"pubmed_qa":{}}}
 list_train = {"pubmed_qa":{"pubmed_qa":{}}}

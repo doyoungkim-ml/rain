@@ -7,6 +7,7 @@ def item2instruction(item):
     return {
         "source": f"Given \"{premise}\" Should we assume that \"{hypothesis}\" is true?",
         "target": item["gold"],
+        "labels_list": ["entailment", "contradiction", "neutral"],
         "config": "none",
         "task": "wanli",
         "prompt": "wanli"
