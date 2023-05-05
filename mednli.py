@@ -1,30 +1,40 @@
 from datasets import load_dataset
 import json
 def item2instruction(item):
-    new = item
-    new["config"]="none"
-    new["task"]="mednli"
-    new["prompt"]="mednli"
-    return new
+    premise = item["sentence1"]
+    hypothesis = item["sentence2"]
+    return {
+        "source": f"Classify the relation between the following two sentences as one of entailment, neutral, or contradiction:\n\nSentence 1: {premise}\n\nSentence 2: {hypothesis}",
+        "target": item["gold_label"],
+        "config": "none",
+        "task": "mednli",
+        "prompt": "mednli"
+    }
 # # for item in file:
 # print(file)
 list_test = {"mednli":{"mednli":{}}}
 list_val = {"mednli":{"mednli":{}}}
 list_train = {"mednli":{"mednli":{}}}
-test = load_dataset("bigbio/mednli","mednli_bigbio_te")
-val = load_dataset("bigbio/mednli", "mednli_source")
-print(test[0])
-pritn(val[0])
-# train = load_dataset("bigbio/mednli",split="train")
-# for item in test:
-    # list_test["condaqa"]["condaqa"][item["SampleID"]]=(item2instruction(item))
-# with open("condaqa_test.json", 'w+') as fd:
-#     json.dump(list_test, fd, indent=4)
-# for item in val:
-#     list_val["condaqa"]["condaqa"][item["SampleID"]]=(item2instruction(item))
-# with open("condaqa_dev.json", 'w+') as fd:
-#     json.dump(list_val, fd, indent=4)
-# for item in train:
-#     list_train["condaqa"]["condaqa"][item["SampleID"]]=(item2instruction(item))
-# with open("condaqa_train.json", 'w+') as fd:
-#     json.dump(list_train, fd, indent=4)
+
+
+with open("mednli-a-natural-language-inference-dataset-for-the-clinical-domain-1.0.0/mli_test_v1.jsonl", "r") as input_file:
+    cnt=0
+    for line in input_file:
+        list_test["mednli"]["mednli"][cnt]=item2instruction(json.loads(line))
+        cnt+=1
+with open("mednli-a-natural-language-inference-dataset-for-the-clinical-domain-1.0.0/mli_dev_v1.jsonl", "r") as input_file:
+    cnt=0
+    for line in input_file:
+        list_val["mednli"]["mednli"][cnt]=item2instruction(json.loads(line))
+        cnt+=1
+with open("mednli-a-natural-language-inference-dataset-for-the-clinical-domain-1.0.0/mli_train_v1.jsonl", "r") as input_file:
+    cnt=0
+    for line in input_file:
+        list_train["mednli"]["mednli"][cnt]=item2instruction(json.loads(line))
+        cnt+=1
+with open("mednli_test.json", 'w+') as fd:
+    json.dump(list_test, fd, indent=4)
+with open("mednli_val.json", 'w+') as fd:
+    json.dump(list_val, fd, indent=4)
+with open("mednli_train.json", 'w+') as fd:
+    json.dump(list_train, fd, indent=4)
